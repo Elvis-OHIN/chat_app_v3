@@ -20,7 +20,7 @@ class MessageInput extends StatelessWidget {
             controller: controller,
             decoration: const InputDecoration(
               border: OutlineInputBorder(),
-              labelText: 'Votre message',
+              labelText: 'Votre message2',
             ),
           ),
         ),
